@@ -52,6 +52,12 @@
     <Compile Include="Chi.Designer.cs">
       <DependentUpon>Chi.cs</DependentUpon>
     </Compile>
+    <Compile Include="Chi2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chi2.Designer.cs">
+      <DependentUpon>Chi2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Chi.resx">
       <DependentUpon>Chi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chi2.resx">
+      <DependentUpon>Chi2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

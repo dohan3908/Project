@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Project
 {
-    public partial class Form1 : Form
+    public partial class Chi2 : Form
     {
-        public Form1()
+        public Chi2()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
